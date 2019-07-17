@@ -1,0 +1,4 @@
+['remote "data"']
+url = s3://protodata/data
+[core]
+remote = data
